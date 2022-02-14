@@ -1,7 +1,3 @@
-from crypt import methods
-from functools import reduce
-from gettext import find
-from urllib import response
 from flask import Flask, request
 import datetime
 import json
